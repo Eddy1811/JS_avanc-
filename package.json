@@ -1,0 +1,23 @@
+{
+  "name": "alps-drive",
+  "version": "1.0.0",
+  "description": "itération 4",
+  "main": ".js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Eddy1811/Node_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eddy1811/Node_JS/issues"
+  },
+  "homepage": "https://github.com/Eddy1811/Node_JS#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
